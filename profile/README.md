@@ -102,5 +102,5 @@ This approach turns it into:
 
 ## 👤 Author
 
-Created by [Dieter Baier](https://gibhub.com/dieterbaier)
+Created by [Dieter Baier](https://github.com/dieterbaier)
 Software Architect · Docs-as-Code enthusiast
