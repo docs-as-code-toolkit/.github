@@ -9,3 +9,39 @@ Build documentation like software.
 - profile → [Profile of Dieter Baier - as a working example](https://github.com/dieterbaier/profile)
 
 👉 Start here: https://github.com/docs-as-code-toolkit/docs-as-code
+
+
+
+# 🚀 Docs-as-Code Toolkit
+
+Build documentation like software.
+
+Versioned. Reproducible. Automated.
+
+---
+
+## 🧩 Core Repositories
+
+* **docs-as-code**
+  👉 [entry point & overview](https://github.com/docs-as-code-toolkit/docs-as-code)
+
+* **docs-toolbox**
+  👉 [reproducible Docker environment](https://github.com/docs-as-code-toolkit/docs-toolbox)
+
+* **profile**
+  👉 [Profile of Dieter Baier - Real-world usage: website, CV, and architecture documentation](https://github.com/dieterbaier/profile)
+
+---
+
+## 🎯 What this is about
+
+This toolkit turns documentation into a **first-class artifact**:
+
+* consistent across environments
+* versioned and testable
+* easy to maintain and extend
+
+---
+
+👉 **Start here:**
+https://github.com/docs-as-code-toolkit/docs-as-code
