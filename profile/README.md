@@ -10,7 +10,7 @@ Build documentation like software.
 
 👉 Start here: https://github.com/docs-as-code-toolkit/docs-as-code
 
-
+👉 or check, why this organisation exists: https://github.com/orgs/docs-as-code-toolkit/discussions/1#discussion-9830082
 
 # 🚀 Docs-as-Code Toolkit
 
