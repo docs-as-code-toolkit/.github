@@ -1,5 +1,7 @@
 # Docs-as-Code Toolkit
 
+![Docs-as-Code](https://img.shields.io/badge/Docs--as--Code-Toolkit-blue)
+
 Build documentation like software.
 
 ## 🚀 Core Repositories
